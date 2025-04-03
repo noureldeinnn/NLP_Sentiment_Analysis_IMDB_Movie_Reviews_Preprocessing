@@ -26,9 +26,3 @@ The dataset used is the well-known [IMDB Movie Reviews Dataset](http://ai.stanfo
 - Python 3
 - Pandas
 - NLTK (Natural Language Toolkit)
-- Matplotlib (optional, for visualizations)
-
-
-
-```bash
-pip install nltk pandas matplotlib
